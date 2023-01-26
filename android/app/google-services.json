@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "216181877158",
+    "project_id": "whatsupbackend",
+    "storage_bucket": "whatsupbackend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216181877158:android:28690550df8f1a02f38767",
+        "android_client_info": {
+          "package_name": "com.example.whatsupclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216181877158-mmdia311buu0pl99g41n0gqb3v9m98o0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsupclone",
+            "certificate_hash": "450d1852f03941631bfe66f63d19b65051ab0f77"
+          }
+        },
+        {
+          "client_id": "216181877158-1llu1h50d93mhku8a9pij8sa8srk7ap1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDygKWlX9fOd140V7dnGF6CNmsqkVINvwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216181877158-1llu1h50d93mhku8a9pij8sa8srk7ap1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216181877158-vmjdiepskmo7h1d32m6oig9am8khp5f2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsupclone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
